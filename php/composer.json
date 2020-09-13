@@ -1,0 +1,12 @@
+{
+    "name": "comoco/shell-scripts",
+    "authors": [
+        {
+            "name": "comoco",
+            "email": "como65416@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
